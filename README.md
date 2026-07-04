@@ -29,6 +29,9 @@ I am an applied microeconomist studying health economics and public policy, with
 - 2024 — SEA, Washington, D.C.  
 - 2024 — STATA Texas Empirical Micro Conference, Dallas (Poster)  
 
+### Honors & Awards
+- 2025–26 — [Outstanding Dissertation Award](https://graduate.baylor.edu/news/story/2026/graduate-school-announces-2025-26-outstanding-dissertation-award-winners), Social Sciences — Baylor University Graduate School  
+
 ### Education
 - PhD, Health Research and Policy<br>Baylor University, Department of Economics  
 - MS, Economics  
