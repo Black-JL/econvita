@@ -1,12 +1,6 @@
 ## Assistant Professor of Health Economics<br>Army–Baylor Graduate Program [MHA/MBA](https://hankamer.baylor.edu/army-baylor)  
 
-I am an applied microeconomist studying health economics and public policy, with a focus on causal inference in healthcare systems.
-
-### Research Interests
-- Health Economics  
-- Causal Inference  
-- Public Policy  
-- Applied Microeconomics  
+I am an applied economist studying health economics, causal inference, and public policy in healthcare systems.
 
 ### Current Projects
 - Psychedelic Decriminalization Effects on Emergency Care 
@@ -37,7 +31,7 @@ I am an applied microeconomist studying health economics and public policy, with
 - MHA, Health Administration 
 
 ### Experience
-- 2025–present — Assistant Professor<br>Army–Baylor Graduate Program
+- 2025–present — Assistant Professor
 - 2022–2025 — PhD Student  
 - 2019–2022 — Chief of Managed Care and Program Analysis<br>RHCE, Germany  
 - 2018–2019 — Executive Officer, Madigan Army Medical Center  
