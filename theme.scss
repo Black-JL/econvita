@@ -44,6 +44,8 @@ a:hover { text-decoration: underline; }
 
 /* ---- two-column: tall portrait left, text right ---- */
 .cols { display: flex; gap: 2.6rem; align-items: flex-start; flex-wrap: wrap; margin-top: 1.4rem; }
+/* push the hero toward vertical center on larger screens only; mobile unchanged */
+@media (min-width: 700px) { .cols { margin-top: clamp(3rem, 13vh, 8rem); } }
 .col-photo { flex: 0 0 360px; max-width: 100%; }
 .col-photo img { width: 100%; height: auto; border-radius: 0; display: block; } /* sharp corners */
 .col-text { flex: 1; min-width: 300px; }
