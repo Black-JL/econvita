@@ -22,6 +22,8 @@ I am an applied microeconomist studying health economics and public policy, with
 - Applied Artificial Intelligence in Health Care
 
 ### Presentations
+- 2026 - U.S. Army Medical Center of Excellence
+         Graduate School Research and Education Symposium
 - 2025 — Stephenson Institute  
 - 2025 — AEA/ASSA, San Francisco, CA  
 - 2024 — SEA, Washington, D.C.  
@@ -33,6 +35,7 @@ I am an applied microeconomist studying health economics and public policy, with
 - MHA, Health Administration 
 
 ### Experience
+- 2025->    - Assistant Professor
 - 2022–2025 — PhD Student  
 - 2019–2022 — Chief of Managed Care and Program Analysis<br>RHCE, Germany  
 - 2018–2019 — Executive Officer, Madigan Army Medical Center  
