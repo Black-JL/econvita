@@ -1,0 +1,37 @@
+---
+pagetitle: "Jared Black"
+description: "Assistant Professor of Health Economics, Army–Baylor Graduate Program"
+---
+
+::: {.hero}
+::: {.hero-photo}
+![](img/profile.jpg)
+:::
+::: {.hero-text}
+# Jared Black
+::: {.hero-role}
+Assistant Professor of Health Economics<br>Army–Baylor Graduate Program [MHA/MBA](https://hankamer.baylor.edu/army-baylor)
+:::
+::: {.hero-lede}
+I am an applied economist studying health economics, causal inference, and public policy in healthcare systems.
+:::
+::: {.social}
+[Email](mailto:jared_black@baylor.edu)
+[LinkedIn](https://www.linkedin.com/in/jared-black-ph-d-a1420a32/)
+[GitHub](https://github.com/Black-JL)
+[Substack](https://substack.com/@jlblack)
+:::
+:::
+:::
+
+## Current Projects
+
+- Psychedelic Decriminalization Effects on Emergency Care
+- Inpatient Outcomes After Psychedelic Decriminalization
+- More Ado about Nothing? Questioning the Short- and Long-term Effects of Data Breaches on Hospital Finances
+- ElectionGPT
+- "Ask an Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)
+
+## Honors & Awards
+
+- [2025–26]{.year} — [Outstanding Dissertation Award](https://graduate.baylor.edu/news/story/2026/graduate-school-announces-2025-26-outstanding-dissertation-award-winners), Social Sciences — Baylor University Graduate School

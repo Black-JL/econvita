@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jared Black"
+  site-url: "https://black-jl.github.io/econ-site"
+  navbar:
+    pinned: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+
+format:
+  html:
+    theme: theme.scss
+    toc: false
+    page-layout: article
+    smooth-scroll: true

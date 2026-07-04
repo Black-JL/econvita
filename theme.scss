@@ -1,0 +1,103 @@
+/*-- scss:defaults --*/
+// Fonts — clean, legible sans (Rubin/McDermott family), sized UP for comfort
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$body-color: #17191c;          // near-black body for maximum readability
+$body-bg: #ffffff;
+$link-color: #12507e;          // deeper slate-blue accent (NOT purple), high contrast
+$headings-font-weight: 700;
+$font-size-root: 19px;          // larger than Rubin's ~16px — the readability fix
+
+// Navbar colors (dark, legible links on a light bar)
+$navbar-bg: #ffffff;
+$navbar-fg: #1f2328;
+$navbar-light-color: rgba(31, 35, 40, 0.72);
+$navbar-light-hover-color: #1a5276;
+$navbar-light-active-color: #1a5276;
+
+/*-- scss:rules --*/
+body {
+  line-height: 1.55;      // tighter, denser, still readable
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: 0.1px;
+}
+
+// content column: roomy but not too wide (Rubin-like measure)
+main.content { max-width: 780px; }
+
+.navbar {
+  border-bottom: 1px solid #eee;
+  box-shadow: none;
+  background: rgba(255,255,255,0.9) !important;
+  backdrop-filter: saturate(160%) blur(8px);
+  font-size: 0.95rem;
+}
+.navbar-title { font-weight: 700; letter-spacing: 0.2px; color: #1f2328 !important; }
+.navbar .nav-link {
+  font-weight: 500;
+  color: rgba(31, 35, 40, 0.72) !important;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active { color: #1a5276 !important; }
+
+/* ---- Hero ---- */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 2.6rem;
+  margin: 2.4rem 0 1.6rem 0;
+  flex-wrap: wrap;
+}
+.hero-photo img {
+  width: 300px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 22px rgba(0,0,0,0.13);
+}
+.hero-text { flex: 1; min-width: 300px; }
+.hero-text h1 {
+  font-size: 2.7rem;
+  font-weight: 700;
+  letter-spacing: -0.8px;
+  margin: 0 0 0.35rem 0;
+}
+.hero-role {
+  font-size: 1.12rem;
+  color: #3a4048;         // darker — no longer washed out
+  font-weight: 500;
+  line-height: 1.4;
+  margin-bottom: 1rem;
+}
+.hero-lede { font-size: 1.16rem; color: #17191c; line-height: 1.5; }
+
+.social { margin-top: 1.4rem; display: flex; gap: 0.55rem; flex-wrap: wrap; }
+.social a {
+  display: inline-block;
+  padding: 0.42rem 0.95rem;
+  border: 1px solid #dcdfe3;
+  border-radius: 999px;
+  font-size: 0.92rem;
+  color: #444 !important;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+.social a:hover { border-color: $link-color; color: $link-color !important; background: #f5f9fc; }
+
+/* ---- Sections ---- */
+h2 {
+  font-size: 1.38rem;
+  font-weight: 700;
+  margin-top: 2.2rem;
+  margin-bottom: 0.9rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e6e8eb;
+  letter-spacing: -0.2px;
+}
+ul { padding-left: 1.15rem; }
+li { margin-bottom: 0.3rem; }
+.year { color: #667080; font-variant-numeric: tabular-nums; margin-right: 0.15rem; }
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
