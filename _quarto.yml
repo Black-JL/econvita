@@ -18,6 +18,8 @@ website:
       - text: "teaching"
         href: teaching.qmd
     right:
+      - text: "email"
+        href: mailto:jared_black@baylor.edu
       - icon: github
         href: https://github.com/Black-JL
         aria-label: GitHub
@@ -26,8 +28,6 @@ website:
         aria-label: LinkedIn
       - text: "substack"
         href: https://substack.com/@jlblack
-      - text: "email"
-        href: mailto:jared_black@baylor.edu
 
 format:
   html:
