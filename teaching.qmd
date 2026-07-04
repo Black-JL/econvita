@@ -1,8 +1,10 @@
 ---
-title: "Teaching"
+title: "teaching"
 ---
 
+::: {.arrow}
 - Macroeconomics
 - Health Economics
 - Quantitative Analysis / Statistics
 - Applied Artificial Intelligence in Health Care
+:::

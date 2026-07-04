@@ -4,22 +4,29 @@ project:
 
 website:
   title: "Jared Black"
-  site-url: "https://black-jl.github.io/econ-site"
+  site-url: "https://black-jl.github.io/econvita"
   navbar:
     pinned: true
-    right:
-      - text: "Home"
+    left:
+      - text: "home"
         href: index.qmd
-      - text: "Research"
+      - text: "research"
         href: research.qmd
-      - text: "Teaching"
+      - text: "cv"
+        href: cv.pdf
+        target: _blank
+      - text: "teaching"
         href: teaching.qmd
-      - text: "CV"
-        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/Black-JL
+        aria-label: GitHub
+      - text: "email"
+        href: mailto:jared_black@baylor.edu
 
 format:
   html:
     theme: theme.scss
     toc: false
-    page-layout: article
+    page-layout: full
     smooth-scroll: true

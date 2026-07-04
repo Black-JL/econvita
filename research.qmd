@@ -1,21 +1,23 @@
 ---
-title: "Research"
+title: "research"
 ---
 
-I study health economics, causal inference, and public policy in healthcare systems.
+## current projects
 
-## Working Projects
+::: {.arrow}
+- Psychedelic Decriminalization Effects on Emergency Care
+- Inpatient Outcomes After Psychedelic Decriminalization
+- More Ado about Nothing? Questioning the Short- and Long-term Effects of Data Breaches on Hospital Finances
+- ElectionGPT
+- "Ask an Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)
+:::
 
-- **Psychedelic Decriminalization Effects on Emergency Care**
-- **Inpatient Outcomes After Psychedelic Decriminalization**
-- **More Ado about Nothing? Questioning the Short- and Long-term Effects of Data Breaches on Hospital Finances**
-- **ElectionGPT**
-- **"Ask an Economist"** — [custom GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)
+## presentations
 
-## Presentations
-
-- [2026]{.year} — U.S. Army Medical Center of Excellence, Graduate School Research and Education Symposium
-- [2025]{.year} — Stephenson Institute
-- [2025]{.year} — AEA/ASSA, San Francisco, CA
-- [2024]{.year} — SEA, Washington, D.C.
-- [2024]{.year} — STATA Texas Empirical Micro Conference, Dallas (Poster)
+::: {.arrow}
+- [2026]{.year} U.S. Army Medical Center of Excellence, Graduate School Research and Education Symposium
+- [2025]{.year} Stephenson Institute
+- [2025]{.year} AEA/ASSA, San Francisco, CA
+- [2024]{.year} SEA, Washington, D.C.
+- [2024]{.year} STATA Texas Empirical Micro Conference, Dallas (Poster)
+:::

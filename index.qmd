@@ -3,35 +3,30 @@ pagetitle: "Jared Black"
 description: "Assistant Professor of Health Economics, Army–Baylor Graduate Program"
 ---
 
-::: {.hero}
-::: {.hero-photo}
-![](img/profile.jpg)
-:::
-::: {.hero-text}
-# Jared Black
-::: {.hero-role}
-Assistant Professor of Health Economics<br>Army–Baylor Graduate Program [MHA/MBA](https://hankamer.baylor.edu/army-baylor)
-:::
-::: {.hero-lede}
-I am an applied economist studying health economics, causal inference, and public policy in healthcare systems.
-:::
-::: {.social}
-[Email](mailto:jared_black@baylor.edu)
-[LinkedIn](https://www.linkedin.com/in/jared-black-ph-d-a1420a32/)
-[GitHub](https://github.com/Black-JL)
-[Substack](https://substack.com/@jlblack)
-:::
-:::
-:::
+```{=html}
+<div class="cols">
+  <div class="col-photo">
+    <img src="img/portrait.jpg" alt="Jared Black">
+  </div>
+  <div class="col-text">
+    <p>I'm Jared Black, an assistant professor of health economics in the Army&ndash;Baylor Graduate Program (<a href="https://hankamer.baylor.edu/army-baylor">MHA/MBA</a>).</p>
 
-## Current Projects
+    <h2>research</h2>
+    <p>My approach is empirical, built on econometrics, statistics, and data science.</p>
+    <p>I study health economics and public policy in healthcare systems &mdash; from psychedelic decriminalization to the financial effects of hospital data breaches.</p>
+    <p>A few current projects:</p>
+    <div class="arrow">
+    <ul>
+      <li>Psychedelic Decriminalization Effects on Emergency Care</li>
+      <li>Inpatient Outcomes After Psychedelic Decriminalization</li>
+      <li>More Ado about Nothing? The Financial Effects of Hospital Data Breaches</li>
+      <li>ElectionGPT</li>
+      <li>&ldquo;Ask an Economist&rdquo; <a href="https://chatgpt.com/g/g-GJeexE26G-ask-an-economist">GPT</a></li>
+    </ul>
+    </div>
 
-- Psychedelic Decriminalization Effects on Emergency Care
-- Inpatient Outcomes After Psychedelic Decriminalization
-- More Ado about Nothing? Questioning the Short- and Long-term Effects of Data Breaches on Hospital Finances
-- ElectionGPT
-- "Ask an Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)
-
-## Honors & Awards
-
-- [2025–26]{.year} — [Outstanding Dissertation Award](https://graduate.baylor.edu/news/story/2026/graduate-school-announces-2025-26-outstanding-dissertation-award-winners), Social Sciences — Baylor University Graduate School
+    <h2>more</h2>
+    <p>Feel free to explore, or <a href="mailto:jared_black@baylor.edu">get in touch</a>.</p>
+  </div>
+</div>
+```
