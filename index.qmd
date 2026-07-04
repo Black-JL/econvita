@@ -12,8 +12,7 @@ description: "Assistant Professor of Health Economics, Army–Baylor Graduate Pr
     <p>I'm Jared Black, an assistant professor of health economics in the Army&ndash;Baylor Graduate Program (<a href="https://hankamer.baylor.edu/army-baylor">MHA/MBA</a>).</p>
 
     <h2>research</h2>
-    <p>My approach is empirical, built on econometrics, statistics, and data science.</p>
-    <p>I study health economics and public policy in healthcare systems &mdash; from psychedelic decriminalization to the financial effects of hospital data breaches.</p>
+    <p>I study health economics and public policy in healthcare systems using empirical tools from econometrics, statistics, and data science.</p>
     <p>A few current projects:</p>
     <div class="arrow">
     <ul>
