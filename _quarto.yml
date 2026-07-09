@@ -5,6 +5,8 @@ project:
 website:
   title: "Jared Black"
   site-url: "https://black-jl.github.io/econvita"
+  page-footer:
+    center: "© 2026 Jared Black. All rights reserved."
   navbar:
     pinned: true
     left:
